@@ -1,3 +1,11 @@
+Grupo: ??
+Integrante:
+    Car Matias
+    Chocobar Matias
+    Mariscotti Agustin
+    Scarafia Gabriel
+
+
 # Calc
 
 Calculadora con funciones simples.
